@@ -1,4 +1,9 @@
 # Machine_Learning
-In this project, I will try to upload all Machine Learning Algorithms with full explanations which could be used as notes along with a sample project based on that algorithm.
+In this project, I aim to compile a comprehensive repository of various machine learning algorithms, each accompanied by clear and concise explanations. These notes will serve as valuable resources for individuals seeking to understand and apply these algorithms effectively. Furthermore, I will complement these explanations with sample projects that demonstrate the practical use of each algorithm.
 
-1. Linear Regression: https://colab.research.google.com/drive/1u5UPPuEtwpiD9QYGkJzCw0DsACzoRlMO?authuser=2#scrollTo=utEsoM8dtuKK 
+The goal is to provide a one-stop solution for learners and practitioners to grasp the concepts, theory, and practical implementation of machine learning techniques. This initiative seeks to bridge the gap between theory and application, making it accessible to a wide audience by using simple and easy-to-understand language.
+
+By the end of this project, users will not only have access to a knowledge base that demystifies machine learning but will also be equipped with hands-on experience through the sample projects. Whether you're a novice or an experienced practitioner, these resources will help you harness the power of machine learning algorithms effectively.
+
+1. Linear Regression: https://colab.research.google.com/drive/1u5UPPuEtwpiD9QYGkJzCw0DsACzoRlMO?authuser=2#scrollTo=utEsoM8dtuKK
+2. Gradient Descent: https://colab.research.google.com/drive/1v7ZG6DfrPtO0GS-l66zdN_imVCuC5PQV?authuser=2#scrollTo=2JFLdwBhnaqH
